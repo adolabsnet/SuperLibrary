@@ -1,7 +1,7 @@
 ## SuperLibrary 📚
 Information Security Library
 
-The container contains the best books in cybersecurity, to cover many fields 👻
+The library contains the best books in cybersecurity  👻
 - Social engineering
 - Network security
 - Web application security
@@ -10,8 +10,6 @@ The container contains the best books in cybersecurity, to cover many fields �
 - Digital forensics
 - Reverse engineering
 - Malware analysis
-
--- The container is scalable --
 
 Enjoy ☺
 
