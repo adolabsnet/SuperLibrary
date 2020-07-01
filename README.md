@@ -17,9 +17,6 @@ Enjoy ☺
 
 ## Library link : https://mega.nz/folder/h6RFQCZb#L3K86i4-qbrpsQ5Wg4rAZw
 
-## Contact me 📱
-1. E-mail : MrM8BRH@protonmail.ch
-1. Signal : +970 595 011 892
 ## Container content 🧾
 ```
 ├───Group 0 [ Miscellaneous ]
