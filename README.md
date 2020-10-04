@@ -13,7 +13,7 @@ The library contains the best books in cybersecurity  👻
 
 Enjoy ☺
 
-## Library link : https://mega.nz/folder/h6RFQCZb#L3K86i4-qbrpsQ5Wg4rAZw
+## Library link : https://mega.nz/folder/w2gCGJKJ#Tk8GYB3iKbDcnpvUM1gIPQ
 
 ## Library content 🧾
 ```
